@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.one{
+    background-color: blue;
+}
+.one_1{
+    background-color: crimson;
+    width:32%;
+    height: 100px;
+    display: inline-block;
+    margin: 7px;
+}
+.one_2{
+    background-color: green;
+    width:32%;
+    height: 100px;
+    display: inline-block;
+    margin: 7px;
+}
+.one_3{
+    background-color:greenyellow;
+    width:32%;
+    height: 100px;
+    display: inline-block;
+    margin: 7px;
+}
+.two{
+    background-color: rgb(101, 141, 216);
+}
+.two_1{
+width: 48.5%;
+}
+.two_2{
+    width: 48.5%;
+    }
+.parent_img{
+    background-color: greenyellow;
+}   
+.image{
+    width:48.5%;
+    height:405px;
+    display: inline-block;
+    margin: 7px;
+}
+
